@@ -1,18 +1,22 @@
 ![](http://i.imgur.com/NcsRW1q.png)
 
-**[PLAY IT HERE](http://ncase.me/polygons)**
+**[Spela här](http://ncase.me/polygons)**
 
 ---
 
-This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
+Den här spelbara skriften är [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
 			
-Please feel free to use this in your classrooms,
-make video/picture/text adaptations,
-or modify the source code!
-Attribution is not mandatory, but super appreciated.
-We are [Vi Hart](http://vihart.com/) and [Nicky Case](http://ncase.me/). 
+Det är fritt fram att använda det här i ditt klassrum,
+göra video/bild/text-bearbetningar,
+eller ändra i <a href="https://github.com/ncase/polygons" target="_blank">källkoden</a>!
+Man behöver inte nämna oss ursprungliga upphovsmän, men det är väldigt uppskattat.
+Vi är [Vi Hart](http://vihart.com/) och [Nicky Case](http://ncase.me/). 
 		
-Show us how you're using and remixing Polygonernas parabel!    
-Tweet us at
-[@vihartvihart](https://twitter.com/vihartvihart) and
+Visa oss hur du använder och remixar Polygonernas parabel!    
+Twittra oss på
+[@vihartvihart](https://twitter.com/vihartvihart) och
 [@ncasenmare](https://twitter.com/ncasenmare).
+
+---
+
+Översättning: Pontus Granström ([@pnutus](https://twitter.com/pnutus))
